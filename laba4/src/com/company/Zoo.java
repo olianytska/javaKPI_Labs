@@ -7,7 +7,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Zoo {
-    public List<Aviary<? extends Animal>> cages = new ArrayList<>();
+    public List<Aviary> cages = new ArrayList<>();
 
     public int getCountOfAnimals (){
         int counter = 0;
