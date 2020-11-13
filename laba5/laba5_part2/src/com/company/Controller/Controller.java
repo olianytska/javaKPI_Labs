@@ -1,7 +1,7 @@
 package com.company.Controller;
 
-import com.company.Models.Data;
-import com.company.View.View;
+import com.company.View.*;
+import com.company.Models.*;
 
 public class Controller {
     private final Data data = new Data();

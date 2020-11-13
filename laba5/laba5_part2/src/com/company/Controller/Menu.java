@@ -1,8 +1,7 @@
 package com.company.Controller;
 
-import com.company.Models.Data;
-import com.company.Models.IOService;
-import com.company.View.View;
+import com.company.Models.*;
+import  com.company.View.*;
 
 import java.util.Scanner;
 
